@@ -9,3 +9,9 @@ let a = undefined;
 let b = null;
 let c = b + '4 2';
 ```
+```shell
+Result
+d = NaN (undefined ระบุค่าไม่ได้)
+e = 0 (Null = 0)
+f = NaN (ระบุค่าไม่ได้เพราะ มีช่องว่างระหว่าง 4กับ2)
+```
